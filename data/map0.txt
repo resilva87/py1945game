@@ -1,0 +1,31 @@
+# A simple map for Py1945 game
+# The sharp (#) is considered to begin a comment.
+# It's very crude, but works :)
+# As it's a scrolling map, all y positions are negative, meaning that scroll will take them down
+
+# Map Format
+# tile name, tilex, tiley, where tile name is terrain, island or volcano
+# tilex is a position on the x axis and tiley is a position on the y axis.
+
+island;100;-200
+island;255;-390
+volcano;300;-750
+terrain;450;-720
+island;200;-980
+terrain;500;-940
+island;420;-1200
+volcano;500;-1180
+terrain;240;-1470
+terrain;75;-1380
+island;65;-1730
+island;255;-1720
+volcano;300;-1920
+terrain;450;-2180
+island;200;-2165
+island;180;-2420
+island;420;-2405
+volcano;500;-2685
+terrain;240;-2670
+terrain;75;-2930
+
+

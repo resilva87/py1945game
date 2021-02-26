@@ -1,0 +1,8 @@
+# A simple wave mapping for Py1945 game
+# The sharp (#) begins a comment.
+# It's very crude, but works :)
+# As it's a scrolling map, all y positions are negative, meaning that scroll will take them down
+# Not very sure that's the BEST practice, but seems to work reasonably fast (Gosh, first games are funny).
+
+12
+
